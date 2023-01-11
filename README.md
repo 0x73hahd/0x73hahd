@@ -1,6 +1,3 @@
-
-![Welcome](pictures/welcome.png)
-
 # About me:
 - I'm a student interested in CS.
 - I have a special interest in Linux.
